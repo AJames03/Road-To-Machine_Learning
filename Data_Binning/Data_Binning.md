@@ -3,6 +3,7 @@
 **Author:** Aron James L. Betinol
 
 **Date Write:** July 08, 2025
+
 ---
 ### What is Data Binning?
 - Binning is the process of **grouping continuous data into discrete categories or intervals**, known as bins. It is commonly used in data analysis, machine learning, and image processing to simplify or summarize data.
