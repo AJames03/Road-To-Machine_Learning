@@ -1,6 +1,7 @@
 # DATA BINNING
 ---
 **Author:** Aron James L. Betinol
+
 **Date Write:** July 08, 2025
 ---
 ### What is Data Binning?
