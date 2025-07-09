@@ -1,7 +1,12 @@
 # Missing Data
+---
+
 **Author:** Aron James L. Betinol
+
 **Published:** July 08, 2025
+
 **Description:** This study is for my personal benefits and to help also the community to understand much better in the topic of Missing Data. And it has also a references comes from W3Schools and GeeksforGeeks.
+
 ---
 ### What is Missing Data?
 - Missing data refers to the absence of a value in a dataset where a value is expected. It occurs when no data value is stored for a variable in an observation. This can happen for many reasons, such as:
